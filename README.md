@@ -7,3 +7,5 @@
     Github
     git remote add  - add a remote
     git push - push to the remote repo
+    git pull -- pulling the repo code
+    manual merging -when same pieces of code change
